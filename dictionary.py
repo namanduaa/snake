@@ -25,7 +25,7 @@ nulldict={}
 nulldict["name"]="naman""aman" #if comma not present
 print(nulldict["name"])    #output namanaman
  
-#if comma present it is presented as tuple
+#if comma present it is presented as tuple 
 nulldict={
 
 }
