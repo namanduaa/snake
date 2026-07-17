@@ -19,7 +19,22 @@ print(dict["cgpa"]) #normal way of printing
 
 # null dictionary
 empdict={}
-print(empdict)
+print(empdict)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 nulldict={}
 nulldict["name"]="naman""aman" #if comma not present
