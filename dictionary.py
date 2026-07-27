@@ -23,19 +23,6 @@ print(empdict)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 nulldict={}
 nulldict["name"]="naman""aman" #if comma not present
 print(nulldict["name"])    #output namanaman
