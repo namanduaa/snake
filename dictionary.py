@@ -15,8 +15,6 @@ print(dict["cgpa"]) #normal way of printing
 # just write key name and value will bw prinnted
 
 
-
-
 # null dictionary
 empdict={}
 print(empdict)   
